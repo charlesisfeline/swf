@@ -4,8 +4,8 @@
 	"license": "MIT",
 	"tags": [ "openfl", "swf", "animation", "flash", "assets", "swc" ],
 	"description": "Provides support for parsing and displaying SWF content",
-	"version": "3.2.0",
-	"releasenote": "New features for CLI pre-processing of SWF assets",
+	"version": "3.3.1",
+	"releasenote": "Fixes run script",
 	"contributors": [
 		"singmajesty",
 		"bowlerhat",
